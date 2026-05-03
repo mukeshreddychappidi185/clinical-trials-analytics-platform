@@ -114,4 +114,6 @@ Source Data (CSV) → Azure Data Factory → Azure Data Lake (Bronze) → Azure 
 * Real-time streaming integration
 * Enhanced monitoring with Azure Monitor
 
+## project architecture
+![image alt](https://github.com/mukeshreddychappidi185/clinical-trials-analytics-platform/blob/0efe54cbc4b9e16c607706f3c3e6b7608410b946/project_architecture.png)
 ---
